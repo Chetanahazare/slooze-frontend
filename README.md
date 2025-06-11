@@ -16,8 +16,7 @@ A responsive, role-based admin dashboard with authentication, dynamic sidebar na
 
 ## 🚀 Live Demo
 
-**[🔗 Click here to view deployed app](https://your-deployment-link.vercel.app)**  
-*(Optional – if hosted on Vercel/Netlify)*
+**[🔗 Click here to view deployed app](https://shimmering-croquembouche-578735.netlify.app/products)**  
 
 ---
 
